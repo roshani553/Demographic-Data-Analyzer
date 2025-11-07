@@ -41,7 +41,7 @@ It explores demographic factors that influence income levels using **Python** an
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Demographic-Data-Analyzer.git
+   git clone https://github.com/roshani553/Demographic-Data-Analyzer.git
 2. Navigate to the folder
    cd Demographic-Data-Analyzer
 3. Run this script
@@ -49,8 +49,11 @@ It explores demographic factors that influence income levels using **Python** an
    
 OUTPUT EXAMPLE
 Average age of men: 39.4
+
 Percentage with higher education earning >50K: 46.5%
+
 Country with highest percentage of rich: Iran
+
 Most popular occupation for those who earn >50K in India: Prof-specialty
 
 ## Author
